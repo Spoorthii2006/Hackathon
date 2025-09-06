@@ -1,2 +1,7 @@
-# Hackathon
-CODE CATALYST- NMIT
+#include <stdio.h>
+int main()
+{
+printf("hello world");
+
+return 0;
+}
